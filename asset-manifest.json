@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/rllrow/rllrow.github.io/memory/static/css/main.da99eaeb.chunk.css",
-    "main.js": "/rllrow/rllrow.github.io/memory/static/js/main.1e3af582.chunk.js",
-    "main.js.map": "/rllrow/rllrow.github.io/memory/static/js/main.1e3af582.chunk.js.map",
-    "runtime-main.js": "/rllrow/rllrow.github.io/memory/static/js/runtime-main.6b5f88ea.js",
-    "runtime-main.js.map": "/rllrow/rllrow.github.io/memory/static/js/runtime-main.6b5f88ea.js.map",
-    "static/js/2.96889e2f.chunk.js": "/rllrow/rllrow.github.io/memory/static/js/2.96889e2f.chunk.js",
-    "static/js/2.96889e2f.chunk.js.map": "/rllrow/rllrow.github.io/memory/static/js/2.96889e2f.chunk.js.map",
-    "static/js/3.9010e993.chunk.js": "/rllrow/rllrow.github.io/memory/static/js/3.9010e993.chunk.js",
-    "static/js/3.9010e993.chunk.js.map": "/rllrow/rllrow.github.io/memory/static/js/3.9010e993.chunk.js.map",
-    "index.html": "/rllrow/rllrow.github.io/memory/index.html",
-    "static/css/main.da99eaeb.chunk.css.map": "/rllrow/rllrow.github.io/memory/static/css/main.da99eaeb.chunk.css.map",
-    "static/js/2.96889e2f.chunk.js.LICENSE.txt": "/rllrow/rllrow.github.io/memory/static/js/2.96889e2f.chunk.js.LICENSE.txt"
+    "main.css": "/memory_creative/static/css/main.da99eaeb.chunk.css",
+    "main.js": "/memory_creative/static/js/main.1e3af582.chunk.js",
+    "main.js.map": "/memory_creative/static/js/main.1e3af582.chunk.js.map",
+    "runtime-main.js": "/memory_creative/static/js/runtime-main.d8bbfdff.js",
+    "runtime-main.js.map": "/memory_creative/static/js/runtime-main.d8bbfdff.js.map",
+    "static/js/2.96889e2f.chunk.js": "/memory_creative/static/js/2.96889e2f.chunk.js",
+    "static/js/2.96889e2f.chunk.js.map": "/memory_creative/static/js/2.96889e2f.chunk.js.map",
+    "static/js/3.9010e993.chunk.js": "/memory_creative/static/js/3.9010e993.chunk.js",
+    "static/js/3.9010e993.chunk.js.map": "/memory_creative/static/js/3.9010e993.chunk.js.map",
+    "index.html": "/memory_creative/index.html",
+    "static/css/main.da99eaeb.chunk.css.map": "/memory_creative/static/css/main.da99eaeb.chunk.css.map",
+    "static/js/2.96889e2f.chunk.js.LICENSE.txt": "/memory_creative/static/js/2.96889e2f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b5f88ea.js",
+    "static/js/runtime-main.d8bbfdff.js",
     "static/js/2.96889e2f.chunk.js",
     "static/css/main.da99eaeb.chunk.css",
     "static/js/main.1e3af582.chunk.js"
