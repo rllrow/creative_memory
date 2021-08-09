@@ -1,0 +1,17 @@
+.card {
+    border: 1px solid black;
+    min-width: 70px;
+    min-height: 70px;
+    margin: 10px;
+}
+.grey {
+    border: 1px solid black;
+    min-width: 70px;
+    min-height: 70px;
+    margin: 10px;
+    background-color: grey;
+}
+
+.final {
+    background-color: white;
+}
